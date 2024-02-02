@@ -1,0 +1,84 @@
+[
+  {
+    "packages": "Click 1",
+    "rate": 1000,
+    "total": "10000",
+    "id": 1,
+    "ch1": [
+      {
+        "name": "Activity 1",
+        "id":11,
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id": 111, "name": "Work Item1", "total": "100000" },
+          {"id": 112, "name": "Work Item2", "total": "100000" },
+          {"id": 113, "name": "Work Item3", "total": "100000" }
+        ]
+      },
+      {
+        "id":12,
+        "name": "Activity 2",
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id": 121, "name": "Work Item1", "total": "100000" },
+          {"id": 122, "name": "Work Item2", "total": "100000" },
+          {"id": 123, "name": "Work Item3", "total": "100000" }
+        ]
+      },
+      {
+        "id":13,
+        "name": "Activity 3",
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id": 131, "name": "Work Item1", "total": "100000" },
+          {"id": 132, "name": "Work Item2", "total": "100000" },
+          {"id": 133, "name": "Work Item3", "total": "100000" }
+        ]
+      }
+    ]
+  },
+  {
+    "packages": "Click 2",
+    "rate": 1000,
+    "total": "10000",
+    "id": 2,
+    "ch1": [
+      {
+        "id":21,
+        "name": "Activity 1",
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id": 211, "name": "Work Item1", "total": "100000" },
+          {"id": 212, "name": "Work Item2", "total": "100000" },
+          {"id": 213, "name": "Work Item3", "total": "100000" }
+        ]
+      },
+      {
+        "id":22,
+        "name": "Activity 2",
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id": 221, "name": "Work Item1", "total": "100000" },
+          {"id": 222, "name": "Work Item2", "total": "100000" },
+          {"id": 223, "name": "Work Item3", "total": "100000" }
+        ]
+      },
+      {
+        "id":23,
+        "name": "Activity 3",
+        "rate": 1000,
+        "total": "10000",
+        "ch11": [
+          {"id":231, "name": "Work Item1", "total": "100000" },
+          {"id":232, "name": "Work Item2", "total": "100000" },
+          {"id":233, "name": "Work Item3", "total": "100000" }
+        ]
+      }
+    ]
+  }
+]
